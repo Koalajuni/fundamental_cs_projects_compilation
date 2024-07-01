@@ -1,0 +1,3 @@
+([('main',
+   '/Users/hyounjun/Desktop/ai_exam/pyqt_crawling/dist/main',
+   'EXECUTABLE')],)
